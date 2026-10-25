@@ -1,0 +1,7 @@
+pvalue,padj,immune_cell,sig
+0.000989224436433981,0.0276982842201515,Activated B cell,Activated B cell***
+0.00574293599744582,0.0804011039642414,Activated CD8 T cell,Activated CD8 T cell**
+0.0338656024340232,0.18964737363053,CD56bright natural killer cell,CD56bright natural killer cell*
+0.0323458538714895,0.18964737363053,Central memory CD8 T cell,Central memory CD8 T cell*
+0.0098982077325437,0.0923832721704079,Memory B cell,Memory B cell**
+0.0493275456537456,0.230195213050813,Type 17 T helper cell,Type 17 T helper cell*

@@ -1,0 +1,29 @@
+pvalue,padj,immune_cell,sig
+0.000989224436433981,0.0276982842201515,Activated B cell,Activated B cell***
+0.646567988250425,0.724156146840476,Activated CD4 T cell,Activated CD4 T cell
+0.00574293599744582,0.0804011039642414,Activated CD8 T cell,Activated CD8 T cell**
+0.448069835886149,0.571463115703542,Activated dendritic cell,Activated dendritic cell
+0.0338656024340232,0.18964737363053,CD56bright natural killer cell,CD56bright natural killer cell*
+0.187301864576961,0.403419400627301,CD56dim natural killer cell,CD56dim natural killer cell
+0.811177131167746,0.841220728618403,Central memory CD4 T cell,Central memory CD4 T cell
+0.0323458538714895,0.18964737363053,Central memory CD8 T cell,Central memory CD8 T cell*
+0.0954499022957392,0.312833030463372,Effector memeory CD4 T cell,Effector memeory CD4 T cell
+0.205287581908941,0.410575163817883,Effector memeory CD8 T cell,Effector memeory CD8 T cell
+0.468387053850564,0.571463115703542,Eosinophil,Eosinophil
+0.925865210499117,0.925865210499117,Gamma delta T cell,Gamma delta T cell
+0.130258757001911,0.364724519605349,Immature  B cell,Immature  B cell
+0.763460314098136,0.822188030567224,Immature dendritic cell,Immature dendritic cell
+0.439092996666366,0.571463115703542,Macrophage,Macrophage
+0.0793440411799125,0.312833030463372,Mast cell,Mast cell
+0.25044387139104,0.456680935616688,MDSC,MDSC
+0.0098982077325437,0.0923832721704079,Memory B cell,Memory B cell**
+0.145370575863256,0.370034193106469,Monocyte,Monocyte
+0.350821229484537,0.516999706608791,Natural killer cell,Natural killer cell
+0.100553474077513,0.312833030463372,Natural killer T cell,Natural killer T cell
+0.171555469708804,0.400296095987209,Neutrophil,Neutrophil
+0.551167265818695,0.643028476788477,Plasmacytoid dendritic cell,Plasmacytoid dendritic cell
+0.469416130756481,0.571463115703542,Regulatory T cell,Regulatory T cell
+0.260960534638108,0.456680935616688,T follicular helper cell,T follicular helper cell
+0.339682565748825,0.516999706608791,Type 1 T helper cell,Type 1 T helper cell
+0.0493275456537456,0.230195213050813,Type 17 T helper cell,Type 17 T helper cell*
+0.318093755776894,0.516999706608791,Type 2 T helper cell,Type 2 T helper cell

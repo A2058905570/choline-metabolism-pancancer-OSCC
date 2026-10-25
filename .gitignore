@@ -1,0 +1,21 @@
+# ===== 大体积数据（保留在本地，不进仓库）=====
+# 超过 GitHub 100MB 硬限制
+1/08_GSEA/dds.RData
+# 90MB 原始表格
+1/10_TIDE/TIDE_rawdata.xls
+# GEO 原始数据，可用 r.00_rawdata.r 重新下载
+1/00_rawdata/
+
+# ===== R 中间对象 =====
+*.RData
+*.Rdata
+.Rhistory
+.Rapp.history
+.Rproj.user/
+
+# ===== 系统与编辑器 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

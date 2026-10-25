@@ -1,0 +1,37 @@
+,cell1,cell2,Correlation,Pvalue
+1,Activated B cell,Activated B cell,1,0
+2,Activated CD8 T cell,Activated B cell,0.753035952282181,2.12939457206248e-48
+3,CD56bright natural killer cell,Activated B cell,0.1762069100304,0.0424526820190701
+4,Central memory CD8 T cell,Activated B cell,0.271049920625814,0.000367671525214461
+5,Memory B cell,Activated B cell,0.226109883126397,3.49536875820048e-07
+6,Type 17 T helper cell,Activated B cell,0.399965198927219,4.65672215532027e-08
+7,Activated B cell,Activated CD8 T cell,0.753035952282181,2.12939457206248e-48
+8,Activated CD8 T cell,Activated CD8 T cell,1,0
+9,CD56bright natural killer cell,Activated CD8 T cell,0.246440770717671,0.000145905548965732
+10,Central memory CD8 T cell,Activated CD8 T cell,0.22552040843346,0.000452528456566886
+11,Memory B cell,Activated CD8 T cell,0.184909069588276,0.000529424310141266
+12,Type 17 T helper cell,Activated CD8 T cell,0.42579743001643,1.7597484506825e-11
+13,Activated B cell,CD56bright natural killer cell,0.1762069100304,0.0424526820190701
+14,Activated CD8 T cell,CD56bright natural killer cell,0.246440770717671,0.000145905548965732
+15,CD56bright natural killer cell,CD56bright natural killer cell,1,0
+16,Central memory CD8 T cell,CD56bright natural killer cell,0.123226689901006,0.139409031139438
+17,Memory B cell,CD56bright natural killer cell,0.116039511826691,0.0405662116575948
+18,Type 17 T helper cell,CD56bright natural killer cell,0.135026901481441,0.0128341746503481
+19,Activated B cell,Central memory CD8 T cell,0.271049920625814,0.000367671525214461
+20,Activated CD8 T cell,Central memory CD8 T cell,0.22552040843346,0.000452528456566886
+21,CD56bright natural killer cell,Central memory CD8 T cell,0.123226689901006,0.139409031139438
+22,Central memory CD8 T cell,Central memory CD8 T cell,1,0
+23,Memory B cell,Central memory CD8 T cell,0.362103270922569,5.09847441457457e-09
+24,Type 17 T helper cell,Central memory CD8 T cell,0.23202165231963,0.000105443656030562
+25,Activated B cell,Memory B cell,0.226109883126397,3.49536875820048e-07
+26,Activated CD8 T cell,Memory B cell,0.184909069588276,0.000529424310141266
+27,CD56bright natural killer cell,Memory B cell,0.116039511826691,0.0405662116575948
+28,Central memory CD8 T cell,Memory B cell,0.362103270922569,5.09847441457457e-09
+29,Memory B cell,Memory B cell,1,0
+30,Type 17 T helper cell,Memory B cell,-0.00274625856944895,0.800259354534197
+31,Activated B cell,Type 17 T helper cell,0.399965198927219,4.65672215532027e-08
+32,Activated CD8 T cell,Type 17 T helper cell,0.42579743001643,1.7597484506825e-11
+33,CD56bright natural killer cell,Type 17 T helper cell,0.135026901481441,0.0128341746503481
+34,Central memory CD8 T cell,Type 17 T helper cell,0.23202165231963,0.000105443656030562
+35,Memory B cell,Type 17 T helper cell,-0.00274625856944895,0.800259354534197
+36,Type 17 T helper cell,Type 17 T helper cell,1,0

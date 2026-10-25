@@ -1,0 +1,7 @@
+"gene","cell","Correlation","Pvalue"
+"expr","Activated B cell",-0.20003807943471,0.00101406740711657
+"expr","Activated CD8 T cell",-0.217567858939652,0.000341751978495448
+"expr","CD56bright natural killer cell",0.150333699417082,0.0139348708559224
+"expr","Central memory CD8 T cell",0.123663594673418,0.0434918771712951
+"expr","Memory B cell",0.175172334660229,0.00408990425727518
+"expr","Type 17 T helper cell",-0.164211257642681,0.00716831063955578
